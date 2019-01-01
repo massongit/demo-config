@@ -1,5 +1,6 @@
 # python-config-object
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)  
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+[![Maintainability](https://api.codeclimate.com/v1/badges/704ede6186236ba0b8cb/maintainability)](https://codeclimate.com/github/massongit/python-config-object/maintainability)  
 iniファイルに記述されている設定をPython内から取得しやすくするためのConfigオブジェクト
 
 ## 作者
