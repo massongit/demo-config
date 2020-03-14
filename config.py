@@ -43,4 +43,7 @@ class Config:
         try:
             return int(conf)
         except ValueError:
-            return conf
+            if conf:
+                return conf
+            else:
+                return None
